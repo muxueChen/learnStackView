@@ -1,0 +1,6 @@
+framework module Pods_UIStackViewActualCombat {
+  umbrella header "Pods-UIStackViewActualCombat-umbrella.h"
+
+  export *
+  module * { export * }
+}
